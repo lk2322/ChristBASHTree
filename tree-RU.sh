@@ -57,8 +57,8 @@ while true; do
         column[$k$i]=$co
         color=$(((color+1)%8))
         # Flashing text
-        sh=1
-        for l in C O D E
+        sh=-2
+        for l in К О Д А
         do
             tput cup $((lin+1)) $((c+sh))
             echo $l
