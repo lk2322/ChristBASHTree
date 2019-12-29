@@ -14,6 +14,10 @@ curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-E
 
 # Spanish version
 curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+
+# Russian version
+curl https://raw.githubusercontent.com/lk2322/ChristBASHTree/master/tree-RU.sh | bash
+
 ```
 
 Via Wget:
@@ -24,6 +28,9 @@ wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/t
 
 # Spanish version
 wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+
+# Russian version
+wget -qO- https://raw.githubusercontent.com/lk2322/ChristBASHTree/master/tree-RU.sh | bas
 ```
 
 Docker:
